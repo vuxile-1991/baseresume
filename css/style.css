@@ -70,6 +70,7 @@ th {
   padding-left: 10px;
   transition: transform .2s;
   display: inline-block;
+  text-align: center;
 }
 
 .go-back:hover {
